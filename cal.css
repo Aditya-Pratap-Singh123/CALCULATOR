@@ -1,0 +1,27 @@
+
+#cal{
+  border: 1px solid ;
+  height: 350px;
+  width: 300px;
+  border-radius: 5px;
+  background-color: bisque;
+}
+#dis{
+  width: 293px;
+  height: 30px;
+  border-radius: 5px;
+  
+}
+#but{
+  height: 50px;
+  width: 60px;
+  margin: 5px;
+  border-radius: 50%;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  
+}
+#but:active{
+  background-color: yellow;
+}
